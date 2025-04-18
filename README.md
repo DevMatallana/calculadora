@@ -1,2 +1,2 @@
 # calculadora
-![](/calc.jpg)
+![](/calc.jpeg)
